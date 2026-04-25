@@ -1,2 +1,2 @@
 # US-Healthcare-Data-Analysis
-Machine Learning project using K-Means clustering in Python to identify retail customer personas.
+Data Analytics project using Python and SQL to analyze 10k+ records for hospital cost optimization.
